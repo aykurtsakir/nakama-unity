@@ -140,6 +140,7 @@
     <Compile Include="NStorageKey.cs" />
     <Compile Include="NStorageRemoveMessage.cs" />
     <Compile Include="NStorageWriteMessage.cs" />
+    <Compile Include="NThreadedClient.cs" />
     <Compile Include="NTopic.cs" />
     <Compile Include="NTopicId.cs" />
     <Compile Include="NTopicJoinMessage.cs" />
