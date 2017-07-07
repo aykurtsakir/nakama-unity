@@ -6,7 +6,9 @@ The format is based on [keep a changelog](http://keepachangelog.com/) and this p
 ## [Unreleased]
 ### Added
 - A new Unity example scene which shows how to matchmake users.
+- A new Unity code example which shows how to dispatch actions on the main thread.
 - New `NIds` helper class and extension methods to compare byte arrays.
+- A session now exposes `.ExpiresAt` and `.Handle` from the token.
 
 ## [0.6.1] - 2017-05-30
 ### Changed
